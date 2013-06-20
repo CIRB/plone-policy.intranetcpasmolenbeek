@@ -7,5 +7,12 @@
   <five:registerPackage package="." initialize=".initialize" />
   <include file="profiles.zcml" />
   <include package="cirb.zopemonitoring" />
+  <include package="collective.ckeditor" />
+  <include package="collective.quickupload" />
+  <include package="plone.app.ldap" />
+  <include package="Products.PloneFormGen" />
+  <include package="qi.portlet.TagClouds" />
+  <include package="quintagroup.analytics" />
+  <include package="webcouturier.dropdownmenu" />
 
 </configure>

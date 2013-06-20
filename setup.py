@@ -29,6 +29,15 @@ setup(name='policy.intranetcpasmolenbeek',
           'Products.LinguaPlone',
           'cirb.zopemonitoring',
           # -*- Extra requirements: -*-
+          'collective.anysurfer',
+          'collective.ckeditor',
+          'collective.languagemovefolders',
+          'collective.quickupload',
+          'plone.app.ldap',
+          'Products.PloneFormGen',
+          'qi.portlet.TagClouds',
+          'quintagroup.analytics',
+          'webcouturier.dropdownmenu',
       ],
       entry_points="""
       # -*- Entry points: -*-
