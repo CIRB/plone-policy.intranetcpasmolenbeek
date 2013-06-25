@@ -38,7 +38,7 @@ setup(name='policy.intranetcpasmolenbeek',
           'qi.portlet.TagClouds',
           'quintagroup.analytics',
           'webcouturier.dropdownmenu',
-          'plonetheme.intranetcpasmolenbeek',
+#          'plonetheme.intranetcpasmolenbeek',
       ],
       entry_points="""
       # -*- Entry points: -*-
