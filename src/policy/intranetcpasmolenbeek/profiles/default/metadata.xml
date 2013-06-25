@@ -9,6 +9,5 @@
       <dependency>profile-quintagroup.analytics:QAnalytics</dependency>
       <dependency>profile-collective.ckeditor:default</dependency>
       <dependency>profile-collective.anysurfer:default</dependency>
-      <dependency>profile-plonetheme.intranetcpasmolenbeek:default</dependency>
   </dependencies>
 </metadata>
